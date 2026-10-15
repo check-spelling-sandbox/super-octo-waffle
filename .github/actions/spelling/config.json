@@ -7,6 +7,7 @@
   },
   "extra_dictionaries": [
     "cspell1:software-terms/softwareTerms.txt",
+    "cspell1:filetypes/filetypes.txt",
     ""
   ],
   "check_extra_dictionaries": [
